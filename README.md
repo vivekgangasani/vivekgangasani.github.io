@@ -1,6 +1,6 @@
 # Vivek Gangasani
 
-**Principal GenAI Architect | Technical Leader | Builder**
+Principal AI Architect | Technical Leader for Inference | Builder
 
 Santa Clara, CA | [LinkedIn](https://www.linkedin.com/in/vivekgangasani/) | vivekrg13@gmail.com
 
@@ -97,6 +97,24 @@ Currently leading a team of AI/ML architects at AWS, serving as embedded technic
 - **Infrastructure** — Kubernetes, GPU clusters (H100/H200/A100), Inferentia/Trainium, distributed systems
 - **MLOps** — CI/CD for ML, model monitoring, deployment guardrails, auto-scaling
 - **Product & Strategy** — Zero-to-one product launches, customer-driven roadmap development, technical GTM
+
+---
+
+## 🎓 Workshops & Hands-On Labs
+
+**310+ attendees** across AWS re:Invent and summit workshops
+
+| Workshop | Event | Attendees | Links |
+|----------|-------|-----------|-------|
+| **End-to-End Fine-Tuning & Deployment of Qwen Models on SageMaker HyperPod** — Hands-on lab covering fine-tuning, optimization, and deployment using HyperPod's latest features | AWS re:Invent 2024 (2 sessions) | 160 | [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/35938d71-5636-4c1c-983a-7222bb37dda5/en-US) |
+| **Build Agentic Workflows with Amazon Bedrock AgentCore & SageMaker AI** — End-to-end workshop building and deploying agentic AI solutions using open-source models on SageMaker with Bedrock AgentCore orchestration | AWS re:Invent 2025 (sold out) | 150 | [Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/77934f2b-05ce-4a64-b59a-b23ebf9d777b/en-US) |
+
+### Workshop Code & Resources
+
+- 📂 [SageMaker GenAI Hosting Examples](https://github.com/aws-samples/sagemaker-genai-hosting-examples/tree/main) — Open-source repository of GenAI hosting patterns, examples, and reference architectures
+- 📂 [Workshop Source Code](https://github.com/aws-samples/sagemaker-genai-hosting-examples/tree/main/04-workshops) — All workshop labs and notebooks
+
+---
 
 ---
 
