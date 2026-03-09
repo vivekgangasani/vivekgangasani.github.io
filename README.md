@@ -1,6 +1,6 @@
 # Vivek Gangasani
 
-Principal AI Architect | Technical Leader for Inference | Builder
+ Head of Solutions for Inference @ AWS| Technical Leader  | Builder
 
 Santa Clara, CA | [LinkedIn](https://www.linkedin.com/in/vivekgangasani/) | vivekrg13@gmail.com
 
